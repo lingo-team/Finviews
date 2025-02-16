@@ -16,7 +16,6 @@ An AI-powered financial analytics and trading platform that provides market sent
 ## Important Links 🔗
 
 - [GitHub Repository](https://github.com/lingo-team/Finviews)
-- [Hosted Application](https://lingo-finview.web.app/)
 - [Prototype Video](https://drive.google.com/drive/folders/1oJo7fynFJjyhFBNySqZFdh4VgeD6i_3z)
 - [Fine-tuning Colab Notebook](https://colab.research.google.com/drive/1MvxUFexEJx5kA4aX-W2if6v7HJFdL4Up?usp=sharing)
 - [Unsloth Fine-tuned Model](https://huggingface.co/ansari02/finview/tree/main)
