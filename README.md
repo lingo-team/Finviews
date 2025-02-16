@@ -15,11 +15,11 @@ An AI-powered financial analytics and trading platform that provides market sent
 
 ## Important Links 🔗
 
-- [GitHub Repository](https://github.com/lingo-team/Finview)
+- [GitHub Repository](https://github.com/lingo-team/Finviews)
 - [Hosted Application](https://lingo-finview.web.app/)
-- [Prototype Video](https://drive.google.com/drive/folders/12_nHs3gTT_wRQY_bYHWJgeh5-FYi49yr?usp=sharing)
-- [Fine-tuning Colab Notebook](https://colab.research.google.com/drive/1tR56tmbALt6fbTmGNnj_WUEf9djqrqPg?usp=sharing)
-- [Unsloth Fine-tuned Model](https://huggingface.co/srlog/finview/tree/main)
+- [Prototype Video](https://drive.google.com/drive/folders/1oJo7fynFJjyhFBNySqZFdh4VgeD6i_3z)
+- [Fine-tuning Colab Notebook](https://colab.research.google.com/drive/1MvxUFexEJx5kA4aX-W2if6v7HJFdL4Up?usp=sharing)
+- [Unsloth Fine-tuned Model](https://huggingface.co/ansari02/finview/tree/main)
 - [Podcasts Dataset](https://docs.google.com/spreadsheets/d/1z6DVJPU1DS4J0OhsPkauRPu_2-HfiPjHix1hpaKTBzE/edit?gid=0#gid=0)
 
 ## Tech Stack 🛠
@@ -85,7 +85,7 @@ Use these placeholder credentials to test the application:
 
 The following endpoints are available through our Flask server hosted on Replit:
 
-- **POST** [https://personal-9d0j.onrender.com/get_answer](https://personal-9d0j.onrender.com/get_answer)
+- **POST** ([https://personal-9d0j.onrender.com/get_answer](https://personal-d5jn.onrender.com/get_answer)
   - Generate optimized portfolio recommendations
 
 - **GET** [https://fincrew.onrender.com/analyze](https://fincrew.onrender.com/analyze)
